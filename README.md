@@ -61,5 +61,5 @@ Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startboo
 
 ![Capture1.png](Capture1.png "Capture1.png")
 ![Capture2.png](Capture2.png "Capture2.png")
-![Capture3.png](Capture2.png "Capture3.png")
-![Capture4.png](Capture2.png "Capture4.png")
+![Capture3.png](Capture3.png "Capture3.png")
+![Capture4.png](Capture4.png "Capture4.png")
