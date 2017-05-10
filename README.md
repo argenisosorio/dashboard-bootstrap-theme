@@ -56,3 +56,8 @@ Many thanks to the creator of and the snippet contributors at [Bootsnipp](http:/
 Copyright 2013-2016 Christian Neff / Iron Summit Media Strategies, LLC.
 
 Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE) license.
+
+## Captures
+
+![Capture1.png](Capture1.png "Capture1.png")
+![Capture2.png](Capture2.png "Capture2.png")
